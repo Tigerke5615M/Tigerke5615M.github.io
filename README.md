@@ -7,6 +7,10 @@
 <meta name="monetag" content="070cba092296446121ce0635398925ea">
 <meta name="16e2646ef4680cb5e13911ea81e09a93cfd8bcb2" content="16e2646ef4680cb5e13911ea81e09a93cfd8bcb2" />
 <title>Riche Tiger — The OS Vault</title>
+
+<script src="https://quge5.com/88/tag.min.js" data-zone="247144" async data-cfasync="false"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7709827809223128" crossorigin="anonymous"></script>
+
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -417,7 +421,6 @@ footer {
 }
 </style>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7709827809223128" crossorigin="anonymous"></script>
 </head>
 <body>
 
