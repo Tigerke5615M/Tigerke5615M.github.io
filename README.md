@@ -5,6 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="monetag" content="070cba092296446121ce0635398925ea">
+<meta name="16e2646ef4680cb5e13911ea81e09a93cfd8bcb2" content="16e2646ef4680cb5e13911ea81e09a93cfd8bcb2" />
 <title>Riche Tiger — The OS Vault</title>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
