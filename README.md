@@ -4,20 +4,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="monetag" content="070cba092296446121ce0635398925ea">
 <title>Riche Tiger — The OS Vault</title>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
-  --bg:       #07090f;
+  --bg:        #07090f;
   --surface:  #0d1017;
-  --border:   rgba(255,255,255,0.07);
+  --border:    rgba(255,255,255,0.07);
   --border-h: rgba(255,255,255,0.14);
   --txt:      #e8eaf0;
   --txt2:     #7a8499;
   --txt3:     #3d4558;
-  --accent:   #3b6eff;
+  --accent:    #3b6eff;
   --accent-s: #1a4fff;
 
   --win:  #4a9eff;
@@ -415,12 +416,10 @@ footer {
 }
 </style>
 
-<!-- ░░ REPLACE ca-pub-XXXXXXXXXXXXXXXX WITH YOUR ADSENSE PUBLISHER ID ░░ -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7709827809223128" crossorigin="anonymous"></script>
 </head>
 <body>
 
-<!-- NAV -->
 <nav>
   <a class="logo" href="#">
     <div class="logo-mark">⬡</div>
@@ -432,7 +431,6 @@ footer {
   </div>
 </nav>
 
-<!-- HERO -->
 <header class="hero">
   <div class="hero-kicker">The Complete OS Archive</div>
   <h1 class="hero-title">Every OS.<br><em>One place.</em></h1>
@@ -460,25 +458,21 @@ footer {
   </div>
 </header>
 
-<!-- AD: LEADERBOARD (728×90) — below hero -->
 <div class="page-body" style="padding-top:24px;padding-bottom:0;">
   <div class="ad-unit ad-leaderboard">
     <span class="ad-label">Advertisement</span>
-    <!-- Replace data-ad-client and data-ad-slot with your values -->
     <ins class="adsbygoogle"
-         style="display:block;width:100%;height:90px;"
-         data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-         data-ad-slot="1111111111"
-         data-ad-format="horizontal"
+         style="display:block"
+         data-ad-client="ca-pub-7709827809223128"
+         data-ad-slot="6182826622"
+         data-ad-format="auto"
          data-full-width-responsive="true"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 </div>
 
-<!-- MAIN -->
 <main class="page-body">
 
-  <!-- FILTER BAR -->
   <div class="filter-bar">
     <span class="filter-label">Filter</span>
     <button class="filter-btn active" data-filter="all">All</button>
@@ -488,7 +482,6 @@ footer {
     <button class="filter-btn" data-filter="oth">Specialty</button>
   </div>
 
-  <!-- WINDOWS -->
   <div class="section-wrap" data-group="win">
     <div class="section-head">
       <h2>Windows</h2>
@@ -498,19 +491,17 @@ footer {
     <div class="cards-grid" id="grid-win"></div>
   </div>
 
-  <!-- AD: RECTANGLE (336×280) — between Windows & Linux -->
   <div class="ad-unit ad-rectangle">
     <span class="ad-label">Advertisement</span>
     <ins class="adsbygoogle"
-         style="display:block;width:100%;height:120px;"
-         data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-         data-ad-slot="2222222222"
-         data-ad-format="rectangle"
+         style="display:block"
+         data-ad-client="ca-pub-7709827809223128"
+         data-ad-slot="6182826622"
+         data-ad-format="auto"
          data-full-width-responsive="true"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 
-  <!-- LINUX -->
   <div class="section-wrap" data-group="linux">
     <div class="section-head">
       <h2>Linux</h2>
@@ -520,19 +511,17 @@ footer {
     <div class="cards-grid" id="grid-linux"></div>
   </div>
 
-  <!-- AD: RECTANGLE — between Linux & Chrome OS -->
   <div class="ad-unit ad-rectangle">
     <span class="ad-label">Advertisement</span>
     <ins class="adsbygoogle"
-         style="display:block;width:100%;height:120px;"
-         data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-         data-ad-slot="3333333333"
-         data-ad-format="rectangle"
+         style="display:block"
+         data-ad-client="ca-pub-7709827809223128"
+         data-ad-slot="6182826622"
+         data-ad-format="auto"
          data-full-width-responsive="true"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 
-  <!-- CHROME OS -->
   <div class="section-wrap" data-group="chr">
     <div class="section-head">
       <h2>Chrome OS</h2>
@@ -542,7 +531,6 @@ footer {
     <div class="cards-grid" id="grid-chr"></div>
   </div>
 
-  <!-- SPECIALTY -->
   <div class="section-wrap" data-group="oth">
     <div class="section-head">
       <h2>Specialty &amp; Experimental</h2>
@@ -559,10 +547,10 @@ footer {
 <div class="ad-unit ad-banner">
   <span class="ad-label">Advertisement</span>
   <ins class="adsbygoogle"
-       style="display:block;width:100%;height:90px;"
-       data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-       data-ad-slot="4444444444"
-       data-ad-format="horizontal"
+       style="display:block"
+       data-ad-client="ca-pub-7709827809223128"
+       data-ad-slot="6182826622"
+       data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
